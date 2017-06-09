@@ -11,7 +11,7 @@ public class PalabraTest {
 	
 	@Before
 	public void setUp() throws Exception {
-		palabraOculta = new Palabra();
+		palabraOculta = new Palabra(); 
 		palabraOculta.elegirPalabra();
 	}
 

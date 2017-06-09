@@ -15,7 +15,7 @@ public class Horca {
 	 */
 	private int fallos;
 
-	/**
+	/** 
 	 * 
 	 */
 	public Horca() {

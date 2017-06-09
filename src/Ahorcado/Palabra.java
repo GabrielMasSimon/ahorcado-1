@@ -103,7 +103,7 @@ public class Palabra {
 				if (descompuesta[i] == letrasDescubiertas[j]) {
 					estaEnDescubiertas = true;
 					break;
-				}
+				} 
 			}
 			if (!estaEnDescubiertas) {
 				estanTodas = false;

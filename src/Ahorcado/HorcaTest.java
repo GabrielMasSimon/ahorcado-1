@@ -7,11 +7,11 @@ import org.junit.Test;
 
 public class HorcaTest {
 
-	private Horca horca;
+	private Horca horca; 
 
 	@Before
 	public void setUp() throws Exception {
-		horca = new Horca();	
+		horca = new Horca();	  
 	}
 
 	@Test

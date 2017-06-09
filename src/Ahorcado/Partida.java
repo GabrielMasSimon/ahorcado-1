@@ -37,7 +37,7 @@ public class Partida {
 
 	/**
 	 * 
-	 * @return letra 
+	 * @return letra  
 	 */
 	public static char pedirLetra() {
 		Scanner entrada = new Scanner(System.in);
